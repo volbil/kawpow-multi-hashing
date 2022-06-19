@@ -1,6 +1,6 @@
 {
     "name": "multi-hashing",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "index.js",
     "author": {
         "name": "Matthew Little",
@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "bindings": "*",
-        "nan": "^2.14.1"
+        "nan": "^2.15.0"
     },
     "keywords": [
         "argon2",
